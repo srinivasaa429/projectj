@@ -1,0 +1,6 @@
+{
+  "name": "Journey Genie",
+  "description": "AI-powered worldwide multi-modal journey planner comparing trains, buses, flights, and cabs with live status, dynamic fares, and real & possible trip cost calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

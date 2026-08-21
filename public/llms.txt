@@ -1,0 +1,9 @@
+# TravelAI
+
+> AI-powered multi-modal journey planner: compare trains, buses, flights, metros and mixed routes between any two places by time, cost, transfers and comfort.
+
+TravelAI takes a start and destination, grounds the trip in real geocoding and road data, then uses AI to compose 4–6 realistic route options with named services, departure and arrival times, intermediate stops, fare ranges and comfort/eco ratings.
+
+## Pages
+
+- [Home](/): Search any origin and destination and see every realistic way to travel between them.
